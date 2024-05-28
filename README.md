@@ -3,6 +3,8 @@
 
 ## 🤝 About Me 
 
+<img width="55%" align="right" alt="Github" src="helloworld.png" />
+
 - 🔭 I’m currently studying *Devops fundamentals*
 - 🌱 I’m currently learning *SpringBoot* and *React.js*
 - 🎯 2024 Goal: Tackle LeetCode daily to boost my coding skills and professional growth.
