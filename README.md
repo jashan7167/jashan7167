@@ -3,7 +3,7 @@
 
 ## 🤝 About Me 
 
-<img width="55%" align="right" alt="Github" src="helloworld.png" />
+<img width="30%" align="right" alt="Github" src="helloworld.png" />
 
 - 🔭 I’m currently studying *Devops fundamentals*
 - 🌱 I’m currently learning *SpringBoot* and *React.js*
