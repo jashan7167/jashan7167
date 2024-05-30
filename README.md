@@ -29,6 +29,8 @@
     <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></td>
     <td><img src="https://skillicons.dev/icons?i=python" alt="Python" /></td>
     <td><img src="https://skillicons.dev/icons?i=git" alt="Git" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" alt="sql" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" /></td>
   </tr>
 </table>
 
