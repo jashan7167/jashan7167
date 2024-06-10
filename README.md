@@ -51,3 +51,6 @@
       <img src="https://skillicons.dev/icons?i=linkedin" />
    </a>
 </p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jashan7167&layout=compact)
