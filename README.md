@@ -53,4 +53,4 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jashan7167&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jashan7167&layout=compact&theme=dark)
