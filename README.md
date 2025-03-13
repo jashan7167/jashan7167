@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently studying *Devops fundamentals*
 - 🌱 I’m currently learning *SpringBoot* and *React.js*
-- 🎯 2024 Goal: Tackle LeetCode daily to boost my coding skills and professional growth.
 - 📫 Reach me at **jashansingh9890@gmail.com** 
 - 🐧 I use Linux Mint, not Arch. Relax, I also use Vim.
 <br>
