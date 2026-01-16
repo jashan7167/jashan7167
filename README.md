@@ -5,10 +5,10 @@
 
 <img width="150" height="100" align="right" alt="Github" src="helloworld.png" />
 
-- 🔭 I’m currently studying *Devops fundamentals*
-- 🌱 I’m currently learning *SpringBoot* and *React.js*
+- 🔭 I’m currently studying *Go*
+- 🌱 I’m currently working on  *Java-SpringBoot*
 - 📫 Reach me at **jashansingh9890@gmail.com** 
-- 🐧 I use Linux Mint, not Arch. Relax, I also use Vim.
+- 🐧 I prefer Linux
 <br>
 
 ## 🛠️ Skills and Languages:
