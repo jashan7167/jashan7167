@@ -11,6 +11,9 @@
 - 🐧 I prefer Linux
 <br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=jashan7167&color=blue&style=flat)
+
+
 ## 🛠️ Skills and Languages:
 <table>
   <tr>
